@@ -6,10 +6,9 @@ Script JS gestion slider simple HTML CSS JS
 #slider {
   position: absolute; /* position absolute ou relative à tester*/
   opacity: 0.98; /* opacité de l'élément */
-  right: 0px; /* aligne à droite */
+  /*right: 0px; /* aligne à droite */
   width: 510px;
   height: 310px;
-  /* le margin est deja gerer par le CSS du theme entre les balises <h3 class = "home-heading">
   /* margin-top: 300px; /* espace que occupe la marge depuis le haut de la page */
   /* margin-right: 0px; /* marge à partir de la droite */
 
